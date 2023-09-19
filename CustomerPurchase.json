@@ -1,0 +1,317 @@
+[{
+    "name": "Brian Adams",
+     "email": "eye@ls.com",
+     "purchaseBean":[
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "101",
+           "createdDate": "2021-03-29",
+           "email": "eye@ls.com"
+       },
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "62",
+           "createdDate": "2021-05-29",
+           "email": "eye@ls.com"
+       },
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "59",
+           "createdDate": "2021-04-29",
+             "email": "eye@ls.com"
+       },
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "62",
+           "createdDate": "2021-01-04",
+           "email": "eye@ls.com"
+
+       },
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "101",
+           "createdDate": "2021-03-16",
+           "email": "eye@ls.com"
+       },
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "59",
+           "createdDate": "2021-04-16",
+           "email": "eye@ls.com"
+       },
+       {
+           "name": "Brian Adams",
+           "purchaseAmount": "62",
+           "createdDate": "2021-01-04",
+           "email": "eye@ls.com"
+       }
+     ]
+
+},
+{
+    "name": "Lyn Curtis",
+    "email": "lyn.curtis@aol.com",
+    "purchaseBean":[
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "210",
+        "createdDate": "2021-03-29",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "63",
+        "createdDate": "2021-05-29",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "65",
+        "createdDate": "2021-04-29",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "63",
+        "createdDate": "2021-01-04",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "210",
+        "createdDate": "2021-03-16",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "63",
+        "createdDate": "2021-05-16",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "65",
+        "createdDate": "2021-04-16",
+        "email": "lyn.curtis@aol.com"
+    },
+    {
+        "name": "Lyn Curtis",
+        "purchaseAmount": "63",
+        "createdDate": "2021-01-16",
+        "email": "lyn.curtis@aol.com"
+    }
+
+  ]
+},
+{
+    "name": "Chris Jones",
+    "email": "chris.jones@aol.com",
+    "purchaseBean":[
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "265",
+          "createdDate": "2021-03-29",
+          "email": "chris.jones@aol.com"
+      },
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "201",
+          "createdDate": "2021-05-29",
+          "email": "chris.jones@aol.com"
+      },
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "221",
+          "createdDate": "2021-04-29",
+          "email": "chris.jones@aol.com"
+      },
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "201",
+          "createdDate": "2021-01-04",
+          "email": "chris.jones@aol.com"
+      },
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "265",
+          "createdDate": "2021-03-16",
+          "email": "chris.jones@aol.com"
+      },
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "201",
+          "createdDate": "2021-05-16",
+          "email": "chris.jones@aol.com"
+      },
+      {
+          "name": "Chris Jones",
+          "purchaseAmount": "221",
+          "createdDate": "2021-04-16",
+          "email": "chris.jones@aol.com"
+      }
+
+    ]
+},
+{
+    "name": "Nick Mose",
+    "email": "nick.mose@aol.com",
+    "purchaseBean":[
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "234",
+          "createdDate": "2021-03-29",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "165",
+          "createdDate": "2021-05-29",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "321",
+          "createdDate": "2021-04-29",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "165",
+          "createdDate": "2021-01-04",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "234",
+          "createdDate": "2021-03-16",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "165",
+          "createdDate": "2021-05-16",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "321",
+          "createdDate": "2021-04-16",
+          "email": "nick.mose@aol.com"
+      },
+      {
+          "name": "Nick Mose",
+          "purchaseAmount": "165",
+          "createdDate": "2021-01-16",
+          "email": "nick.mose@aol.com"
+      }
+
+    ]
+    },
+{
+    "name": "Zeke Adams",
+    "email": "zeke.adams@aol.com",
+    "purchaseBean":[
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "342",
+          "createdDate": "2021-03-29",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "189",
+          "createdDate": "2021-05-29",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "89",
+          "createdDate": "2021-04-29",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "189",
+          "createdDate": "2021-01-04",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "342",
+          "createdDate": "2021-03-16",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "189",
+          "createdDate": "2021-05-16",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "89",
+          "createdDate": "2021-04-16",
+          "email": "zeke.adams@aol.com"
+      },
+      {
+          "name": "Zeke Adams",
+          "purchaseAmount": "189",
+          "createdDate": "2021-01-16",
+          "email": "zeke.adams@aol.com"
+      }
+    ]
+},
+{
+    "name": "Crystal Rands",
+    "email": "crystal.rands@aol.com",
+    "purchaseBean":[
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "120",
+          "createdDate": "2021-03-29",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "117",
+          "createdDate": "2021-05-29",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "523",
+          "createdDate": "2021-04-29",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "117",
+          "createdDate": "2021-01-04",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "120",
+          "createdDate": "2021-03-16",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "117",
+          "createdDate": "2021-05-16",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "523",
+          "createdDate": "2021-04-16",
+          "email": "crystal.rands@aol.com"
+      },
+      {
+          "name": "Crystal Rands",
+          "purchaseAmount": "117",
+          "createdDate": "2021-01-16",
+          "email": "crystal.rands@aol.com"
+      }
+    ]
+}]
